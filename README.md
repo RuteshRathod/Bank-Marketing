@@ -22,3 +22,9 @@ The originally semi-colon separated dataset is read properly using “;” as separa
 | **Accuracy** |        0.8726        |     0.8771    |         0.8610         |  0.8351 |
 
 **XGBoost** gives better performance than all other methods as is shown with AUC.
+
+## Authors
+Prabodh Wankhede<br>
+Rohit Singh<br>
+Rutesh Rathod<br>
+Jayesh Patil<br>
