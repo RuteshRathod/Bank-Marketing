@@ -1,4 +1,4 @@
-# Improving Prediction of Potential Clients for Bank Term Deposits using Machine Learning Approaches
+# Improving Prediction of Bank Term Deposits using Machine Learning Approaches
 
 ## Overview
 The data is related with direct marketing campaigns of a **Portuguese banking institution**. The marketing campaigns were based on phone calls to offer **term deposit subscriptions** to their customers.
