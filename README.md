@@ -45,14 +45,14 @@ Install the following packages using RStudio
 
 ## Order of Execution
 Run the files in following sequence:
-1. Data Cleaning.ipynb (Convert the semi-colon separated values into comma separated values)
-2. EDA Feature Engineering and Preprocessing.R (Exploratory Data Analysis, Feature Engineering)
-3. Feature Importance.R (Significant features in decreasing order of importance)
-4. Logistic Regression.R (Logistic Regression Model)
-5. Random Forest.R (Random Forest Model)
-6. SVM.R (SVM Model)
-7. xgb.R (To generate optimal parameters for training the XGBoost model)
-8. XGBoost.ipynb (Training the XGBoost Model)
+1. **Data Cleaning.ipynb** (Convert the semi-colon separated values into comma separated values)
+2. **EDA Feature Engineering and Preprocessing.R** (Exploratory Data Analysis, Feature Engineering)
+3. **Feature Importance.R** (Significant features in decreasing order of importance)
+4. **Logistic Regression.R** (Logistic Regression Model)
+5. **Random Forest.R** (Random Forest Model)
+6. **SVM.R** (SVM Model)
+7. **xgb.R** (To generate optimal parameters for training the XGBoost model)
+8. **XGBoost.ipynb** (Training the XGBoost Model)
 
 ## Data
 **Source:** https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
